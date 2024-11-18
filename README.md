@@ -1,3 +1,3 @@
-# Digiboard
+# InkSync
 
 ## Real time Whiteboard
